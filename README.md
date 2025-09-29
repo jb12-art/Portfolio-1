@@ -17,7 +17,7 @@ No CSS/JS Frameworks.
 # Getting Started
 ## Installing.
 1. Clone the repo:
-git clone git@github.com/jb12-art/Portfolio-1/
+git clone https://github.com/jb12-art/Portfolio-1.git
 2. Install the dependencies:
 npm install
 
