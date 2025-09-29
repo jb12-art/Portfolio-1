@@ -1,0 +1,39 @@
+body {
+  margin: 0 auto;
+  min-height: 100vh;
+  background-color: lightblue;
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+  box-sizing: border-box;
+}
+
+header {
+  height: 100px;
+  background-color: violet;
+}
+
+.page-wrapper {
+  min-height: 100vh;
+}
+
+.main-title {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.project-card {
+  margin: auto;
+  border: 1px solid black;
+  max-width: 500px;
+  max-height: 700px;
+  width: 95%;
+  height: 100%;
+}
+
+.project-title {
+  text-align: center;
+}
+
+footer {
+  height: 100px;
+  background-color: bisque;
+}
