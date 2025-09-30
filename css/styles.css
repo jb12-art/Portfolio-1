@@ -9,6 +9,17 @@ body {
 header {
   height: 100px;
   background-color: violet;
+  display: flex;
+}
+
+.logo {
+  margin: auto;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  font-size: xxx-large;
+  font-family: "liquid", sans-serif;
+  color: aqua;
 }
 
 .page-wrapper {
@@ -22,18 +33,38 @@ header {
 
 .project-card {
   margin: auto;
-  border: 1px solid black;
+  border: 6px solid white;
+  border-radius: 10px;
   max-width: 500px;
   max-height: 1000px;
-  width: 95%;
+  width: 90%;
   height: 100%;
+  background-color: aliceblue;
 }
 
-.project-title {
+.img-div {
+  max-width: 500px;
+  max-height: 700px;
+}
+
+.rainydays-img {
+  width: 100%;
+}
+
+.text-div {
+  text-align: center;
+}
+
+.project-title,
+.project-nr-text {
   text-align: center;
 }
 
 footer {
-  height: 100px;
-  background-color: bisque;
+  margin: auto;
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  height: 150px;
+  background-color: violet;
 }
