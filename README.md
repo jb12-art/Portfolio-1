@@ -6,8 +6,9 @@
 
 ![alt text](<images/Screenshot 2025-09-30 125550.png>)
 
-2. Semester Project 1 img
-3. JavaScript 1 img
+### 2. Semester Project 1 img
+
+### 3. JavaScript 1 img
 
 # Description
 
