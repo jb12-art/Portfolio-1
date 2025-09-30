@@ -2,7 +2,7 @@
 
 # Projects
 
-# 1. HTML and CSS - Rainydays img
+### 1. HTML and CSS - Rainydays img
 
 ![alt text](<images/Screenshot 2025-09-30 125550.png>)
 
