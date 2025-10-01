@@ -10,7 +10,7 @@
 
 ![alt text](<images/Screenshot 2025-10-01 155433.jpg>)
 
-### 3. JavaScript 1 img
+### 3. JavaScript 1 RainyDays V.2. img
 
 ![alt text](<images/Screenshot 2025-10-01 161434.jpg>)
 
