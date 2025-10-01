@@ -8,7 +8,7 @@ body {
 
 header {
   height: 100px;
-  background-color: #c237c2;
+  background-color: #ec73ec;
   display: flex;
 }
 
@@ -19,7 +19,7 @@ header {
   text-align: center;
   font-size: xxx-large;
   font-family: "liquid", sans-serif;
-  color: aqua;
+  color: #0b4444;
 }
 
 .page-wrapper {
@@ -72,5 +72,5 @@ footer {
   text-align: center;
   flex-direction: column;
   height: 150px;
-  background-color: #c237c2;
+  background-color: #ec73ec;
 }
