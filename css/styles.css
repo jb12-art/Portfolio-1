@@ -33,6 +33,7 @@ header {
 
 .project-card {
   margin: auto;
+  margin-bottom: 100px;
   border: 6px solid white;
   border-radius: 10px;
   max-width: 500px;
