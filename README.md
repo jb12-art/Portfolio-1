@@ -18,7 +18,7 @@
 
 1. HTML & CSS - Rainydays - First project written in HTML and CSS.
 2. Semester Project 1 - Second project written in HTML and CSS.
-3. JavaScript 1 - Third project written in HTML, CSS and JavaScript.
+3. JavaScript 1 - Third project is RainyDays V.2. written in HTML, CSS and JavaScript.
 
 # Built With
 
@@ -27,14 +27,14 @@ No CSS/JS Frameworks.
 
 # Getting Started
 
-## Installing.
+### Installing.
 
 1. Clone the repo:
    git clone https://github.com/jb12-art/Portfolio-1.git
 2. Install the dependencies:
    npm install
 
-## Running.
+### Running.
 
 To run the app, run the following commands:
 npm run start
@@ -45,4 +45,4 @@ https://www.linkedin.com/
 
 # Author
 
-jb12-art / Jørgen
+jb12-art / Jørgen Bjørnethun
