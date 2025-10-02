@@ -12,6 +12,8 @@
       rel="stylesheet"
     />
     <link href="https://fonts.cdnfonts.com/css/liquid" rel="stylesheet" />
+
+    <script src="js/script.js" defer></script>
   </head>
   <body>
     <header>
@@ -24,8 +26,28 @@
 
         <!-- CV | Cover letter -->
         <div class="cv-letter-div">
-          <p>Attach CV/Resume</p>
-          <p>Attach Cover Letter</p>
+          <h2>Documents</h2>
+
+          <!-- CV -->
+          <div class="doc-section">
+            <button class="doc-btn" data-target="cv-box">View CV</button>
+            <div id="cv-box" class="doc-box">
+              <iframe
+                src="images/CV Jørgen B 2025.pdf"
+                frameborder="0"
+              ></iframe>
+            </div>
+          </div>
+
+          <!-- Cover Letter -->
+          <div class="doc-section">
+            <button class="doc-btn" data-target="cl-box">
+              View Cover Letter
+            </button>
+            <div id="cl-box" class="doc-box">
+              <iframe src="" frameborder="0"></iframe>
+            </div>
+          </div>
         </div>
 
         <!-- RainyDays -->
